@@ -1,0 +1,10 @@
+version: 1
+root: level = "DEBUG"
+
+formatters:
+  simple:
+    format: ""
+  output:
+    format: ""
+  detailed:
+    format: ""
