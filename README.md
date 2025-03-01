@@ -1,2 +1,1 @@
-# jisoo
- 
+![]("./assets/banner.jpg")
