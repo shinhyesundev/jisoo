@@ -10,8 +10,6 @@
 
 </h3>
 
-> User Survey
-
 > This project is in its early stages and is currently under **active development**.
 
 ## What is this project?
